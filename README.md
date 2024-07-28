@@ -1,7 +1,7 @@
 # Support_vector_Iris
 
 
-```markdown
+```
 # SVM Classification on the Iris Dataset
 
 This project demonstrates the use of Support Vector Machines (SVM) for classification on the Iris dataset using different kernels. The code explores the classification results and visualizes the decision boundaries for linear and radial basis function (RBF) kernels.
